@@ -10,6 +10,7 @@ import re
 from collections import Counter
 import requests
 import time
+import google.generativeai as genai
 
 # Text processing and ML libraries
 try:
@@ -31,7 +32,16 @@ except ImportError as e:
 
 # Gemini API configuration
 GEMINI_API_KEY = "AIzaSyDmPiDZGWkap0oKZzENszs9nsK-E-A2qMA"
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={GEMINI_API_KEY}"
+genai.configure(api_key=GEMINI_API_KEY)
+
+def test_gemini_api():
+    """Test if the Gemini API key is working"""
+    try:
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        response = model.generate_content("Say 'API is working' if you can read this.")
+        return "API is working" in response.text or len(response.text) > 10
+    except:
+        return False
 
 class ReviewAnalyzer:
     def __init__(self):
@@ -174,31 +184,29 @@ class ReviewAnalyzer:
             return [], []
 
 def call_gemini_api(prompt):
-    """Call Gemini API for recommendations"""
+    """Call Gemini API for recommendations using google.generativeai library"""
     try:
-        headers = {
-            'Content-Type': 'application/json',
-        }
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        response = model.generate_content(prompt)
         
-        data = {
-            "contents": [{
-                "parts": [{
-                    "text": prompt
-                }]
-            }]
-        }
-        
-        response = requests.post(GEMINI_URL, headers=headers, json=data, timeout=30)
-        
-        if response.status_code == 200:
-            result = response.json()
-            if 'candidates' in result and len(result['candidates']) > 0:
-                return result['candidates'][0]['content']['parts'][0]['text']
-        
-        return "Unable to generate recommendations at this time."
+        if response.text:
+            return response.text
+        else:
+            return "Unable to generate recommendations at this time."
     
     except Exception as e:
-        return f"Error generating recommendations: {str(e)}"
+        error_msg = str(e).lower()
+        
+        if "api_key" in error_msg or "authentication" in error_msg:
+            return "API Error: Invalid API key. Please check your Gemini API key configuration."
+        elif "quota" in error_msg or "limit" in error_msg:
+            return "API Error: Rate limit or quota exceeded. Please try again later."
+        elif "permission" in error_msg or "forbidden" in error_msg:
+            return "API Error: Access forbidden. Please verify your API key has the correct permissions."
+        elif "network" in error_msg or "connection" in error_msg:
+            return "API Error: Network connection failed. Please check your internet connection."
+        else:
+            return f"Error generating recommendations: {str(e)}"
 
 def load_and_process_data():
     """Load and process the merged reviews data"""

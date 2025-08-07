@@ -1,0 +1,4058 @@
+[{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=f675b82e2451c2bc",
+  "encryptedReviewId": "f675b82e2451c2bc",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "",
+  "location": "",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1j1qdus772ig8002",
+  "reviewUrl": "/cmp/Talan/reviews/classique?id=f675b82e2451c2bc",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/classique?id=f675b82e2451c2bc",
+  "submissionDate": "4 août 2025",
+  "text": {
+    "text": "Entreprise correct , remuneration correct, beaucoup de concurrence interne. Je m’y suis bien senti."
+  },
+  "title": {
+    "text": "Classique "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Classique \"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "US",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=8b2fdc9be9461a0a",
+  "encryptedReviewId": "8b2fdc9be9461a0a",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Développeur java",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=D%C3%A9veloppeur+Java+%28H%2FF%29",
+  "location": "Paris",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=US&floc=Paris%2C+TX",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Développeur Java (H/F)",
+  "overallRating": 1,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1is9rhngvgcud800",
+  "reviewUrl": "/cmp/Talan/reviews/management-toxique-pas-de-mission?id=8b2fdc9be9461a0a",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/management-toxique-pas-de-mission?id=8b2fdc9be9461a0a",
+  "submissionDate": "27 mai 2025",
+  "text": {
+    "languageTag": "fr-US",
+    "text": "Ils vous vendent du rêve et font une rupture de la période d’essai sous prétexte qu’ils n’ont pas trouvé de mission pour vous. \nBeaucoup de personnes sont déjà en intercontrat, evitez à tout prix. "
+  },
+  "title": {
+    "languageTag": "fr-US",
+    "text": "Management toxique, pas de mission "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Management toxique, pas de mission \"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 3,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Tout le reste"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 1,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=b3c7f96936f8761f",
+  "encryptedReviewId": "b3c7f96936f8761f",
+  "helpful": 0,
+  "indexable": true,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 1,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Gestionnaire ADV",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Gestionnaire+Adv+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Gestionnaire Adv (H/F)",
+  "overallRating": 1,
+  "pros": {
+    "text": "Télétravail"
+  },
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1imiq2buih30h802",
+  "reviewUrl": "/cmp/Talan/reviews/un-environnement-de-travail-%C3%A0-fuir?id=b3c7f96936f8761f",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/un-environnement-de-travail-%C3%A0-fuir?id=b3c7f96936f8761f",
+  "submissionDate": "17 mars 2025",
+  "text": {
+    "text": "Mauvaise expérience dans cette entreprise où le management est inefficace et le service RH totalement absent, malgré une notion de ressources sans réellement prendre en compte l’humain. Le favoritisme est omniprésent et les problèmes de communication à tous les niveaux rendent le travail encore plus difficile. Le manque de compétences de nombreux collaborateurs est flagrant. La responsable du service ADV ne maîtrise ni la gestion d’équipe ni le leadership, ce qui impacte directement l’organisation. Quant au team leader, son manque de clarté et son attitude arrogante compliquent encore davantage les choses, avec une approche non collaborative. Une entreprise à fuir pour ceux qui recherchent un environnement sain et professionnel."
+  },
+  "title": {
+    "text": "Un environnement de travail à fuir"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Un environnement de travail à fuir\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 1,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=17359c0abd815561",
+  "encryptedReviewId": "17359c0abd815561",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultante stagiaire",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Stagiaire+Consultant+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Stagiaire Consultant (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1ijdpr04njvmq802",
+  "reviewUrl": "/cmp/Talan/reviews/bon-cadre-de-travail-et-bienveillance?id=17359c0abd815561",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bon-cadre-de-travail-et-bienveillance?id=17359c0abd815561",
+  "submissionDate": "6 février 2025",
+  "text": {
+    "text": "Une belle équipe au sein du pôle transports et mobilité donnant un bon cadre de travail. Une équipe dynamique et bienveillante. Un rythme de travail qui demande d'être efficace et rigoureux."
+  },
+  "title": {
+    "text": "Bon cadre de travail et bienveillance"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Bon cadre de travail et bienveillance\"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 1,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Aucune cohérence dans les objectifs, mauvaise organisation interne, objectifs non clarifiés, ..."
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 1,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=3f449017a1bcf4a6",
+  "encryptedReviewId": "3f449017a1bcf4a6",
+  "helpful": 3,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 1,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Manager AI Advisory & vision client 360",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=G%C3%A9rant+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 1,
+    "type": "Direction"
+  },
+  "normJobTitle": "Gérant (H/F)",
+  "overallRating": 1,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1iadpauh521vn002",
+  "reviewUrl": "/cmp/Talan/reviews?id=3f449017a1bcf4a6",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews?id=3f449017a1bcf4a6",
+  "submissionDate": "17 octobre 2024",
+  "text": {
+    "text": "Très mauvaise expérience, humaine et professionnelle."
+  },
+  "title": {
+    "text": "."
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \".\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 1,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 1,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Environnement toxique, management defasé"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 1,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=1b1ae7a042867730",
+  "encryptedReviewId": "1b1ae7a042867730",
+  "helpful": 1,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 1,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+%28H%2FF%29",
+  "location": "Paris 16e (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+16e+%2875%29",
+  "managementRating": {
+    "rating": 1,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant (H/F)",
+  "overallRating": 1,
+  "pros": {
+    "text": "RAS"
+  },
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1huvjuqtci839800",
+  "reviewUrl": "/cmp/Talan/reviews/environnement-toxique-et-stressant?id=1b1ae7a042867730",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/environnement-toxique-et-stressant?id=1b1ae7a042867730",
+  "submissionDate": "28 mai 2024",
+  "text": {
+    "text": "Environnement de travail très toxique\nManagement tres defasé \nDes Managers incompétents "
+  },
+  "title": {
+    "text": "Environnement toxique et stressant"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Environnement toxique et stressant\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 1,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "ES",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=6ab54cceca005a30",
+  "encryptedReviewId": "6ab54cceca005a30",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Administrative Assistant",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Administrative+Assistant",
+  "location": "Spain",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Administrative Assistant",
+  "overallRating": 3,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hufle2hmic9j802",
+  "reviewUrl": "/cmp/Talan/reviews/nice-coworkers?id=6ab54cceca005a30",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/nice-coworkers?id=6ab54cceca005a30",
+  "submissionDate": "22 mai 2024",
+  "text": {
+    "languageTag": "en-ES",
+    "text": "All the coworkers are usually helpful and nice people. Young team, nice team work even tho each person has a different task. The managers do their best to manage an online work environment"
+  },
+  "title": {
+    "languageTag": "en-ES",
+    "text": "Nice coworkers"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Nice coworkers\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "GB",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=15222f6f6201e50c",
+  "encryptedReviewId": "15222f6f6201e50c",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant",
+  "location": "London, Greater London",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=GB&floc=London",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1huahcrhsj6ck800",
+  "reviewUrl": "/cmp/Talan/reviews/nice-company-with-great-colleagues?id=15222f6f6201e50c",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/nice-company-with-great-colleagues?id=15222f6f6201e50c",
+  "submissionDate": "20 mai 2024",
+  "text": {
+    "languageTag": "en-GB",
+    "text": "Good work life balance and opportunities to get involved with initiatives outside bau. The pay is decent and it’s nice that they send you small gifts throughout the year"
+  },
+  "title": {
+    "languageTag": "en-GB",
+    "text": "Nice company with great colleagues "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Nice company with great colleagues \"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=ae74b76dd82e5662",
+  "encryptedReviewId": "ae74b76dd82e5662",
+  "helpful": 0,
+  "indexable": true,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Tech Lead Data",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Chef+de+Projet+Informatique+%28H%2FF%29",
+  "location": "Toulouse (31)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Toulouse+%2831%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chef de Projet Informatique (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1htu45u0bj6ck802",
+  "reviewUrl": "/cmp/Talan/reviews/entreprise-o%C3%B9-il-fait-bon-vivre?id=ae74b76dd82e5662",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/entreprise-o%C3%B9-il-fait-bon-vivre?id=ae74b76dd82e5662",
+  "submissionDate": "15 mai 2024",
+  "text": {
+    "text": "Talan est une excellente esn avec des managers et une direction proches des collaborateurs et toujours à l’écoute.\nL’ambiance est superbe, merveilleux collègues, nouveaux locaux très moderne au centre ville et pour finir les salaires sont plutôt corrects comparé à la concurrence dans la région toulousaine."
+  },
+  "title": {
+    "text": "Entreprise où il fait bon vivre"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Entreprise où il fait bon vivre\"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=7178b205e3e1f6a5",
+  "encryptedReviewId": "7178b205e3e1f6a5",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultante",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+%28H%2FF%29",
+  "location": "Lyon (69)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Lyon+%2869%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant (H/F)",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1htog8m9sgpea802",
+  "reviewUrl": "/cmp/Talan/reviews/bonne-esn?id=7178b205e3e1f6a5",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bonne-esn?id=7178b205e3e1f6a5",
+  "submissionDate": "13 mai 2024",
+  "text": {
+    "text": "Bonne ESN, ambiance de travail agréable, évolution salariale intéressante.\nTalan propose des missions intéressantes dans la région lyonnaise.\nQuelques soirées dans l'année sympas."
+  },
+  "title": {
+    "text": "Bonne ESN"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Bonne ESN\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=d998a66f4a4f504b",
+  "encryptedReviewId": "d998a66f4a4f504b",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+%28H%2FF%29",
+  "location": "Toulouse (31)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Toulouse+%2831%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant (H/F)",
+  "overallRating": 3,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hrk8ej2hicaq801",
+  "reviewUrl": "/cmp/Talan/reviews/bonne-ambiance-mais-%C3%A7a-ne-fait-pas-tout?id=d998a66f4a4f504b",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bonne-ambiance-mais-%C3%A7a-ne-fait-pas-tout?id=d998a66f4a4f504b",
+  "submissionDate": "16 avril 2024",
+  "text": {
+    "text": "L'ambiance de travail et les collaborateurs sont chouettes, mais le manque d'avantage, de reconnaissance et de responsabilité ne permettent pas de se fidéliser et projeter"
+  },
+  "title": {
+    "text": "Bonne ambiance mais ça ne fait pas tout"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Bonne ambiance mais ça ne fait pas tout\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=05aa2d32151afc14",
+  "encryptedReviewId": "05aa2d32151afc14",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Chargé de recrutement IT",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Charg%C3%A9+de+Recrutement+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chargé de Recrutement (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hqffep7ajl3c802",
+  "reviewUrl": "/cmp/Talan/reviews/recommande?id=05aa2d32151afc14",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/recommande?id=05aa2d32151afc14",
+  "submissionDate": "2 avril 2024",
+  "text": {
+    "text": "Bonne ambiance de travail, salaire dans la moyenne, missions classiques d'un chargé de recrutement. Bémol les besoins recrutement peuvent changer du tout au tout donc on peut être amené à travailler dans le vide..."
+  },
+  "title": {
+    "text": "Recommande"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Recommande\"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=e6a4d9cacaff3cd9",
+  "encryptedReviewId": "e6a4d9cacaff3cd9",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Architecte technique",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Architecte+Technique+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Architecte Technique (H/F)",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hoagh1u0jklk800",
+  "reviewUrl": "/cmp/Talan/reviews/bonne-ambiance-de-travail?id=e6a4d9cacaff3cd9",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bonne-ambiance-de-travail?id=e6a4d9cacaff3cd9",
+  "submissionDate": "6 mars 2024",
+  "text": {
+    "text": "+Ambiance de travail sympa. \n+Beau locaux en plein paris.\n+Une belle visibilité sur l'entité conseil\n\n-Plus de structuration à faire coté organisation de travail\n-Politique\n"
+  },
+  "title": {
+    "text": "Bonne ambiance de travail"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Bonne ambiance de travail\"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=c0fc3ae7d8dfe52b",
+  "encryptedReviewId": "c0fc3ae7d8dfe52b",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "chargée de recrutement ",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Charg%C3%A9+de+Recrutement+%28H%2FF%29",
+  "location": "france",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chargé de Recrutement (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hlvjhq6uiena801",
+  "reviewUrl": "/cmp/Talan/reviews/je-recommande?id=c0fc3ae7d8dfe52b",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/je-recommande?id=c0fc3ae7d8dfe52b",
+  "submissionDate": "6 février 2024",
+  "text": {
+    "text": "je recommande fortement entreprise great place to work. \nEntreprise très humaine. Horaires de travail flexible, possibilité d’évolution. Direction transparente avec ces salariés "
+  },
+  "title": {
+    "text": "Je recommande !"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Je recommande !\"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=3c3f7a0f0e2f8010",
+  "encryptedReviewId": "3c3f7a0f0e2f8010",
+  "helpful": 2,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Directeur Projet",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Directeur+de+Projets+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Directeur de Projets (H/F)",
+  "overallRating": 1,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hlt6jntojl19801",
+  "reviewUrl": "/cmp/Talan/reviews/business-is-business?id=3c3f7a0f0e2f8010",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/business-is-business?id=3c3f7a0f0e2f8010",
+  "submissionDate": "5 février 2024",
+  "text": {
+    "text": "Manque de conformité aux procédures établies par le département des ressources humaines\nDifficulté à assimiler les principes et les méthodologies des approches agiles\nDéficit de suivi dans le domaine de la gestion et de la supervision managériale."
+  },
+  "title": {
+    "text": "Business is Business"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Business is Business\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=c024b1311d3e6751",
+  "encryptedReviewId": "c024b1311d3e6751",
+  "helpful": 2,
+  "indexable": true,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Product Owner",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Chef+de+Produit+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chef de Produit (H/F)",
+  "overallRating": 3,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hl5bkid629qh000",
+  "reviewUrl": "/cmp/Talan/reviews/sympa-dans-l-ensemble?id=c024b1311d3e6751",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/sympa-dans-l-ensemble?id=c024b1311d3e6751",
+  "submissionDate": "27 janvier 2024",
+  "text": {
+    "text": "Missions intéressantes.\nLiberté données par les managers.\nPar contre qualité de l'ambiance dégradée depuis le covid, l'entreprise n'a pas retrouvée ce qui l'a distinguée, transformée d'une entreprise humaine à une entreprise qui fait passer le business en premier, les consultants deviennent des machines à sous."
+  },
+  "title": {
+    "text": "Sympa dans l'ensemble"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Sympa dans l'ensemble\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=66fad005e8f3fc1f",
+  "encryptedReviewId": "66fad005e8f3fc1f",
+  "helpful": 1,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+%28H%2FF%29",
+  "location": "Toulouse (31)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Toulouse+%2831%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant (H/F)",
+  "overallRating": 2,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hk968mkrmna9800",
+  "reviewUrl": "/cmp/Talan/reviews/mauvaises-exp%C3%A9riences-avec-les-caract%C3%A9ristiques-des-esn?id=66fad005e8f3fc1f",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/mauvaises-exp%C3%A9riences-avec-les-caract%C3%A9ristiques-des-esn?id=66fad005e8f3fc1f",
+  "submissionDate": "16 janvier 2024",
+  "text": {
+    "text": "Plus de monde veux en partir qu’y entrer au final de l’expérience que j’en retire. Cela en dis long sur cette société où les acquisitions sont souvent mal vécus par les anciens employés de la société racheté car comme sauvant le nouveau management en est la cause principale."
+  },
+  "title": {
+    "text": "Mauvaises expériences avec les caractéristiques des ESN"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Mauvaises expériences avec les caractéristiques des ESN\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 4,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Pas d'intéressement, ni de participation pour certaines entités Talan (notamment Corporate)"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 5,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=684a41708345fcc3",
+  "encryptedReviewId": "684a41708345fcc3",
+  "helpful": 1,
+  "indexable": true,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 4,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Chargée de recrutement",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Charg%C3%A9+de+Recrutement+%28H%2FF%29",
+  "location": "Lyon (69)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Lyon+%2869%29",
+  "managementRating": {
+    "rating": 4,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chargé de Recrutement (H/F)",
+  "overallRating": 5,
+  "pros": {
+    "text": "Télétravail possible, tickets restaurant, RTT, CSE, bon équilibre vie pro/vie perso, évènements d'agence réguliers, bonne ambiance générale"
+  },
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hhjtu45bjtvh800",
+  "reviewUrl": "/cmp/Talan/reviews/une-belle-entreprise-o%C3%B9-il-fait-bon-travailler?id=684a41708345fcc3",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/une-belle-entreprise-o%C3%B9-il-fait-bon-travailler?id=684a41708345fcc3",
+  "submissionDate": "14 décembre 2023",
+  "text": {
+    "text": "Talan est une entreprise où il fait bon travailler et où l'équilibre vie pro/vie perso est bien pris en compte.\nBeaucoup d'outils sont mis à notre disposition, avec la possibilité de se former tout au long de notre carrière chez Talan.\nUne grande liberté est laissé aux collaborateurs pour proposer et participer à des projets internes."
+  },
+  "title": {
+    "text": "Une belle entreprise où il fait bon travailler"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Une belle entreprise où il fait bon travailler\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 5,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 3,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Equilibre vie pro/vie perso, Offboarding, la collectionnite aigue de la direction, les communications de la direction, le CSE, Management toxique"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 1,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=0f01d88e29102a39",
+  "encryptedReviewId": "0f01d88e29102a39",
+  "helpful": 2,
+  "indexable": true,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 3,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant AMOA",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+Amoa+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 1,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant Amoa (H/F)",
+  "overallRating": 2,
+  "pros": {
+    "text": "Ambiance au travail, projets, montée en compétence"
+  },
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hgm7ou1pkcpt800",
+  "reviewUrl": "/cmp/Talan/reviews/catalogu%C3%A9-tra%C3%AEtre-lors-d-un-d%C3%A9part?id=0f01d88e29102a39",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/catalogu%C3%A9-tra%C3%AEtre-lors-d-un-d%C3%A9part?id=0f01d88e29102a39",
+  "submissionDate": "2 décembre 2023",
+  "text": {
+    "text": "Au départ c'est sympa, le processus de recrutement est simple et rapide, une fois dedans l'ambiance est bonne et les projets intéressant, mais une fois sur le départ vous êtes catalogue lâcheur voire traître si c'est sur des désaccords avec la politique de la direction. À la fin tout est fait pour dire que vous faites une erreur, que ça sera dur de retrouver, de refuser toutes les négociations, de faire trainer les réponses, les ruptures conventionnelles n'y comptez même pas.\nEt le favoritisme aussi est très présent, à la limite du toxique avec les managers, un expert de 15 ans d'expériences est un roi mais un junior de 3 ans est un gratte-papier.\nEt on parlera de la direction aussi, qui passe son temps à collectionner d'autres sociétés mais la moitié des collaborateurs s'en vont car Talan rend les choses moins bien qu'avant, c'est comme collectionner des figurines mais les ranger dans un carton au grenier. Et la communication est catastrophique : ça programme constamment des événements du jour au lendemain, ou alors à 12h ou à 19h."
+  },
+  "title": {
+    "text": "Catalogué traître lors d'un départ"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Catalogué traître lors d'un départ\"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 1,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=aaf98600854f16d3",
+  "encryptedReviewId": "aaf98600854f16d3",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Manager",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Manager+%28H%2FF%29",
+  "location": "Paris 16ème arrondissement (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+16e+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Manager (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1heqbll4ujkb9800",
+  "reviewUrl": "/cmp/Talan/reviews/bon-%C3%A9quilibre?id=aaf98600854f16d3",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bon-%C3%A9quilibre?id=aaf98600854f16d3",
+  "submissionDate": "9 novembre 2023",
+  "text": {
+    "text": "Management bienveillant et à l'écoute. Il y a une bonne ambiance. A l'instar de toutes les ESN, les missions sont proposées en fonction de ton profil et de la demande des clients. Bonne mutuelle. Ticket restau à 9€ etc..."
+  },
+  "title": {
+    "text": "Bon équilibre"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Bon équilibre\"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "TN",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=5cec6b75c6db1fc2",
+  "encryptedReviewId": "5cec6b75c6db1fc2",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Stagiaire",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Stagiaire+%28H%2FF%29",
+  "location": "tunis",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Stagiaire (H/F)",
+  "overallRating": 3,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hcsoaeea2cpt001",
+  "reviewUrl": "/cmp/Talan/reviews/bon?id=5cec6b75c6db1fc2",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bon?id=5cec6b75c6db1fc2",
+  "submissionDate": "16 octobre 2023",
+  "text": {
+    "languageTag": "fr-TN",
+    "text": "pour un stage c est bon , l equipe est chaleureuse et beaucoup d innovation et de créativité , je recommende vivement à tout les étudiant qui veulent une nouvelle expérience"
+  },
+  "title": {
+    "languageTag": "fr-TN",
+    "text": "bon"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"bon\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "CH",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=492568be5b60e5b0",
+  "encryptedReviewId": "492568be5b60e5b0",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Développeur Full Stack",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=D%C3%A9veloppeur+Full+Stack+%28H%2FF%29",
+  "location": "Geneve",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=CH&floc=Genf%2C+GE",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Développeur Full Stack (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hcovvgoni90s800",
+  "reviewUrl": "/cmp/Talan/reviews/bonne-ssii?id=492568be5b60e5b0",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bonne-ssii?id=492568be5b60e5b0",
+  "submissionDate": "15 octobre 2023",
+  "text": {
+    "languageTag": "fr-CH",
+    "text": "Très bien, tout est carré et structuré. Ça fait plaisir de bosser avec les différents intervenants, commerciaux, RH etc. Bonne SSII. Pas de langues de bois."
+  },
+  "title": {
+    "languageTag": "fr-CH",
+    "text": "Bonne SSII"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Bonne SSII\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "CH",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=af70183ca984d5eb",
+  "encryptedReviewId": "af70183ca984d5eb",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Analyste",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Analyste+%28H%2FF%29",
+  "location": "Geneve",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=CH&floc=Genf%2C+GE",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Analyste (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hbtmjl6rjkl7801",
+  "reviewUrl": "/cmp/Talan/reviews/travail-agr%C3%A9able?id=af70183ca984d5eb",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/travail-agr%C3%A9able?id=af70183ca984d5eb",
+  "submissionDate": "4 octobre 2023",
+  "text": {
+    "languageTag": "fr-CH",
+    "text": "J'ai adoré travailler en tant qu'analyste informatique dans cette entreprise. L'ambiance chaleureuse et collaborative en fait un lieu exceptionnel pour s'épanouir."
+  },
+  "title": {
+    "languageTag": "fr-CH",
+    "text": "Travail agréable "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Travail agréable \"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=32b102ced9d55ad8",
+  "encryptedReviewId": "32b102ced9d55ad8",
+  "helpful": 1,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Responsable Recrutement",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Responsable+Recrutement+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Responsable Recrutement (H/F)",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1hapdvoffjkl7802",
+  "reviewUrl": "/cmp/Talan/reviews/travail-en-%C3%A9quipe-autonomie-sur-chaque-poste?id=32b102ced9d55ad8",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/travail-en-%C3%A9quipe-autonomie-sur-chaque-poste?id=32b102ced9d55ad8",
+  "submissionDate": "20 septembre 2023",
+  "text": {
+    "text": "L'équilibre entre le travail individuel et collectif me semble pertinent chez Talan et l'ambiance est plutôt détendue au sein de chaque entité.\n\nUn effort pourrait être fait sur les évènements."
+  },
+  "title": {
+    "text": "Travail en équipe & autonomie sur chaque poste"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Travail en équipe & autonomie sur chaque poste\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=05f4659b9fedcd2e",
+  "encryptedReviewId": "05f4659b9fedcd2e",
+  "helpful": 1,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+%28H%2FF%29",
+  "location": "France",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant (H/F)",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1h6o7r68f2946000",
+  "reviewUrl": "/cmp/Talan/reviews/tr%C3%A9s-bonne-entreprise?id=05f4659b9fedcd2e",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/tr%C3%A9s-bonne-entreprise?id=05f4659b9fedcd2e",
+  "submissionDate": "1 août 2023",
+  "text": {
+    "text": "J'ai eu le plaisir de travailler chez Talan  et je dois dire que mon expérience a été extrêmement positive. Dès le premier contact, l'équipe s'est montrée chaleureuse et professionnelle, répondant à toutes mes questions avec patience et clarté."
+  },
+  "title": {
+    "text": "Trés Bonne entreprise "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Trés Bonne entreprise \"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=b6d19f8eaa2376e2",
+  "encryptedReviewId": "b6d19f8eaa2376e2",
+  "helpful": 1,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Stagiaire",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Stagiaire+%28H%2FF%29",
+  "location": "Île-de-France",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Stagiaire (H/F)",
+  "overallRating": 3,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1h5s3se4alg8n802",
+  "reviewUrl": "/cmp/Talan/reviews/bonne-exp%C3%A9rience?id=b6d19f8eaa2376e2",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bonne-exp%C3%A9rience?id=b6d19f8eaa2376e2",
+  "submissionDate": "21 juillet 2023",
+  "text": {
+    "text": "Stage informatique.     bon projet et communication avec l'équipe.    \n\n                                                              \n\n\n\n\n\n\n\n\n\n\n\n\n\n   "
+  },
+  "title": {
+    "text": "Bonne expérience "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Bonne expérience \"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=75632811ac3dbe01",
+  "encryptedReviewId": "75632811ac3dbe01",
+  "helpful": 1,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant AMOA",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+Amoa+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant Amoa (H/F)",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1h2v1iggvi910801",
+  "reviewUrl": "/cmp/Talan/reviews/bonne-exp%C3%A9rience?id=75632811ac3dbe01",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/bonne-exp%C3%A9rience?id=75632811ac3dbe01",
+  "submissionDate": "15 juin 2023",
+  "text": {
+    "text": "Bien dans l'ensemble, évolution de salaire régulière, esprit d'équipe présent\nLa seule variable d'appréciation vient du management qui peut être plus ou moins efficace"
+  },
+  "title": {
+    "text": "Bonne expérience"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Bonne expérience\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=9afccabea217a805",
+  "encryptedReviewId": "9afccabea217a805",
+  "helpful": 1,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Développeur",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=D%C3%A9veloppeur+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Développeur (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1gvk1kk00i81o801",
+  "reviewUrl": "/cmp/Talan/reviews/excellente-ambiance-%C3%A9colution-de-carri%C3%A8re?id=9afccabea217a805",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/excellente-ambiance-%C3%A9colution-de-carri%C3%A8re?id=9afccabea217a805",
+  "submissionDate": "4 mai 2023",
+  "text": {
+    "text": "Equilibre parfait entre la vie professionnel et personnel, salaire et augmentation motivate, trés bon esprit d'équipe et bonne ambiance, les résponsable sont à 'écoute  "
+  },
+  "title": {
+    "text": "Excellente ambiance, écolution de carrière"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Excellente ambiance, écolution de carrière\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=e5a93dfda4e7c4af",
+  "encryptedReviewId": "e5a93dfda4e7c4af",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Alternance",
+  "location": "Paris",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1gui1n9e8jl2h800",
+  "reviewUrl": "/cmp/Talan/reviews/lieu-de-travail?id=e5a93dfda4e7c4af",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/lieu-de-travail?id=e5a93dfda4e7c4af",
+  "submissionDate": "21 avril 2023",
+  "text": {
+    "text": "Les locaux de Talan sont très agréables et bien situés. Il y a une bonne cohésion dans l'entreprise et les misions sont enrichissantes. Je recommande Talan."
+  },
+  "title": {
+    "text": "Lieu de travail"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Lieu de travail\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 1,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 1,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=9b0abf87036945ee",
+  "encryptedReviewId": "9b0abf87036945ee",
+  "helpful": 2,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 1,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Designer",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Web+Designer+%28H%2FF%29",
+  "location": "Toulouse",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Toulouse+%2831%29",
+  "managementRating": {
+    "rating": 1,
+    "type": "Direction"
+  },
+  "normJobTitle": "Web Designer (H/F)",
+  "overallRating": 1,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1gsafj02fisud800",
+  "reviewUrl": "/cmp/Talan/reviews/entretien-pitoyable?id=9b0abf87036945ee",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/entretien-pitoyable?id=9b0abf87036945ee",
+  "submissionDate": "24 mars 2023",
+  "text": {
+    "text": "15 ans d'expérience, de bonnes références, un entretien superficiel avec un referent en design obtu. On devait voir mes travaux dans un second temps ce qui n'a pas été fait comme il était convenu, et on ose me répondre que je suis trop cher... alors que je suis dans une fourchette du métier... et que je n'ai pas pu justifier de mes postes à responsabilité. Scandaleux, pitoya le comme toutes les sociétés de presta de la region"
+  },
+  "title": {
+    "text": "Entretien pitoyable"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Entretien pitoyable\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 1,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=85a25c7f97a47a9d",
+  "encryptedReviewId": "85a25c7f97a47a9d",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Ingénu Consultant confirmé ",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Chef+de+Projet+Confirm%C3%A9+%28H%2FF%29",
+  "location": "Paris",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chef de Projet Confirmé (H/F)",
+  "overallRating": 3,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1grk95k0egpd1800",
+  "reviewUrl": "/cmp/Talan/reviews/missions-int%C3%A9ressantes?id=85a25c7f97a47a9d",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/missions-int%C3%A9ressantes?id=85a25c7f97a47a9d",
+  "submissionDate": "15 mars 2023",
+  "text": {
+    "text": "J’ai eu une bonne mission mais mon premier manager faisait du harcèlement et les commerciaux ont un pouvoir décisionnel incohérent car ils ne comprennent rien au terrain. Terrain miné "
+  },
+  "title": {
+    "text": "Missions intéressantes"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Missions intéressantes\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 0,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 0,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=79f31ae8e98c5538",
+  "encryptedReviewId": "79f31ae8e98c5538",
+  "helpful": 0,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 0,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 0,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant (H/F)",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1gqq2pg5hkjb6800",
+  "reviewUrl": "/cmp/Talan/reviews/lieu-de-travail-agr%C3%A9able?id=79f31ae8e98c5538",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/lieu-de-travail-agr%C3%A9able?id=79f31ae8e98c5538",
+  "submissionDate": "5 mars 2023",
+  "text": {
+    "text": "Missions intéressantes, les équipes sont soudées. Le suivi au quotidien change de mes précédentes expériences. Mon manager est assez présent. Bémol pas de variable pour le moment "
+  },
+  "title": {
+    "text": "Lieu de travail agréable "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Lieu de travail agréable \"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 1,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Management toxique, rémunération bas de plancher, missions pas terribles, pas de culture d'entrepruse"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 1,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=d8577582ca22de9b",
+  "encryptedReviewId": "d8577582ca22de9b",
+  "helpful": 4,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 1,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Consultant+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 1,
+    "type": "Direction"
+  },
+  "normJobTitle": "Consultant (H/F)",
+  "overallRating": 1,
+  "pros": {
+    "text": "J'ai beau chercher."
+  },
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1gogmft46j6cv802",
+  "reviewUrl": "/cmp/Talan/reviews/marchand-de-viande-et-abattoir?id=d8577582ca22de9b",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/marchand-de-viande-et-abattoir?id=d8577582ca22de9b",
+  "submissionDate": "5 février 2023",
+  "text": {
+    "text": "Agence de placement de consultant avec des personnes au siège (managers et administratifs) désagréables et impolis, et dans environnement soumis  un pression sournoise.  Rémunération très en deçà. La vitrine Linkedin est belle, mais les coulisses sont innommables. Mon seul jour heureux : le jour où j'ai envoyé ma démission. "
+  },
+  "title": {
+    "text": "Marchand de viande et abattoir"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Marchand de viande et abattoir\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 0,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 5,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 4,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=150dd2f156a4702c",
+  "encryptedReviewId": "150dd2f156a4702c",
+  "helpful": 2,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 5,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Product Owner",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Chef+de+Produit+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 4,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chef de Produit (H/F)",
+  "overallRating": 5,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1g9nh1asoi93e800",
+  "reviewUrl": "/cmp/Talan/reviews/tr%C3%A8s-bonne-entreprise?id=150dd2f156a4702c",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/tr%C3%A8s-bonne-entreprise?id=150dd2f156a4702c",
+  "submissionDate": "5 août 2022",
+  "text": {
+    "text": "Super entreprise. Je suis tombé sur un très bon manager, à l'écoute et qui m'a bien accompagné. Mais ce n'est pas le cas de tous les managers "
+  },
+  "title": {
+    "text": "Très bonne entreprise "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Très bonne entreprise \"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 5,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 3,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "US",
+  "cultureAndValuesRating": {
+    "rating": 4,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=d2de709b8799b038",
+  "encryptedReviewId": "d2de709b8799b038",
+  "helpful": 1,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 4,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Intern",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Intern",
+  "location": "Tunis, AR",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=US&floc=Tunis%2C+AR",
+  "managementRating": {
+    "rating": 3,
+    "type": "Direction"
+  },
+  "normJobTitle": "Intern",
+  "overallRating": 4,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1g9eng348kect800",
+  "reviewUrl": "/cmp/Talan/reviews/not-bad-for-interns?id=d2de709b8799b038",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/not-bad-for-interns?id=d2de709b8799b038",
+  "submissionDate": "2 août 2022",
+  "text": {
+    "languageTag": "en-US",
+    "text": "working here as an Intern, my employers often  give me help. i often seek to learn from the internet too. I've learned more about the working environment."
+  },
+  "title": {
+    "languageTag": "en-US",
+    "text": "Not bad for interns"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Not bad for interns\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 4,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 3,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 1,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=98734295a4442c13",
+  "encryptedReviewId": "98734295a4442c13",
+  "helpful": 6,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 1,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Développeur informatique",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=D%C3%A9veloppeur+%28H%2FF%29",
+  "location": "Lyon (69)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Lyon+%2869%29",
+  "managementRating": {
+    "rating": 1,
+    "type": "Direction"
+  },
+  "normJobTitle": "Développeur (H/F)",
+  "overallRating": 1,
+  "pros": {
+    "text": "0"
+  },
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1fr0jj8ihr7p0800",
+  "reviewUrl": "/cmp/Talan/reviews/marchand-de-viande?id=98734295a4442c13",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/marchand-de-viande?id=98734295a4442c13",
+  "submissionDate": "3 février 2022",
+  "text": {
+    "text": "Le client n'avait plus besoin de moi pour cause de manque charge alors que mon manager à mis ça sur de l'incompétence de ma part et n'a même pas pris soin de faire la réunion de fin de prestation et pire encore il a annulé sans prévenir le client."
+  },
+  "title": {
+    "text": "\t\n\nMarchand de viande"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"\t\n\nMarchand de viande\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 1,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 2,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Pas d’augmentation de salaire"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 2,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=ba4c33c986dcaa42",
+  "encryptedReviewId": "ba4c33c986dcaa42",
+  "helpful": 5,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 1,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Product Owner",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Chef+de+Produit+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 1,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chef de Produit (H/F)",
+  "overallRating": 3,
+  "pros": {
+    "text": "Bon CSE"
+  },
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1fqp35oquu092800",
+  "reviewUrl": "/cmp/Talan/reviews/peu-agr%C3%A9able?id=ba4c33c986dcaa42",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/peu-agr%C3%A9able?id=ba4c33c986dcaa42",
+  "submissionDate": "31 janvier 2022",
+  "text": {
+    "text": "Aucune évolution de carrière, manager peu compétent "
+  },
+  "title": {
+    "text": "Peu agréable "
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Peu agréable \"",
+  "type": "LIST",
+  "unhelpful": 1,
+  "workAndLifeBalanceRating": {
+    "rating": 2,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 2,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Tout est prétexte à faire du business"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 2,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": false,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=ec97f77be7547076",
+  "encryptedReviewId": "ec97f77be7547076",
+  "helpful": 4,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 2,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Salarié polyvalent",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Agent+Viticole+%28H%2FF%29",
+  "location": "Paris",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 2,
+    "type": "Direction"
+  },
+  "normJobTitle": "Agent Viticole (H/F)",
+  "overallRating": 2,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1fpbs52vmr8dc801",
+  "reviewUrl": "/cmp/Talan/reviews/une-esn-comme-toutes-les-autres?id=ec97f77be7547076",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/une-esn-comme-toutes-les-autres?id=ec97f77be7547076",
+  "submissionDate": "14 janvier 2022",
+  "text": {
+    "text": "Beaucoup de communications de façade.\nUne ESN parisienne comme toutes les autres ESN parisiennes."
+  },
+  "title": {
+    "text": "Une ESN comme toutes les autres."
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Une ESN comme toutes les autres.\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 1,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 1,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 1,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=b3b41c8157d84fcf",
+  "encryptedReviewId": "b3b41c8157d84fcf",
+  "helpful": 4,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 1,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant Senior",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Chef+de+Projet+Senior+%28H%2FF%29",
+  "location": "Paris (75)",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Paris+%2875%29",
+  "managementRating": {
+    "rating": 1,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chef de Projet Senior (H/F)",
+  "overallRating": 1,
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1f606h29mstab800",
+  "reviewUrl": "/cmp/Talan/reviews/a-%C3%A9viter?id=b3b41c8157d84fcf",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/a-%C3%A9viter?id=b3b41c8157d84fcf",
+  "submissionDate": "18 mai 2021",
+  "text": {
+    "text": "Managers non professionnels et pas du tout qualifiés.\nPromesses non tenues, pas de gestion de carrière.\nA éviter absolument (la practice Salesforce)."
+  },
+  "title": {
+    "text": "A éviter"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"A éviter\"",
+  "type": "LIST",
+  "unhelpful": 0,
+  "workAndLifeBalanceRating": {
+    "rating": 2,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+},
+{
+  "comments": [],
+  "compensationAndBenefitsRating": {
+    "rating": 5,
+    "type": "Salaire/Avantages sociaux"
+  },
+  "cons": {
+    "text": "Les travers humains classiques que l'on trouve partout, selon les interlocuteurs et contextes de chacuns."
+  },
+  "country": "FR",
+  "cultureAndValuesRating": {
+    "rating": 3,
+    "type": "Culture d'entreprise"
+  },
+  "currentEmployee": true,
+  "dsaWebappReviewUrl": "https://dsa-reporting-and-appeals.indeed.com/cr/?cmp=Talan&reviewId=a1a9e035bbc0c7f3",
+  "encryptedReviewId": "a1a9e035bbc0c7f3",
+  "helpful": 2,
+  "indexable": false,
+  "isDeletable": false,
+  "jobSecurityAndAdvancementRating": {
+    "rating": 5,
+    "type": "Sécurité de l'emploi/Évolution de carrière"
+  },
+  "jobTitle": "Consultant Senior",
+  "jobTitleFilterLink": "/cmp/Talan/reviews?fjobtitle=Chef+de+Projet+Senior+%28H%2FF%29",
+  "location": "Amiens",
+  "locationFilterLink": "/cmp/Talan/reviews?fcountry=FR&floc=Amiens+%2880%29",
+  "managementRating": {
+    "rating": 4,
+    "type": "Direction"
+  },
+  "normJobTitle": "Chef de Projet Senior (H/F)",
+  "overallRating": 5,
+  "pros": {
+    "text": "Avantages classiques d'une ESN (Mutuelle, Bonus, 1%logement etc..)"
+  },
+  "redacted": false,
+  "reviewStatus": "APPROVED",
+  "reviewUid": "1ep1h5n09ssvs800",
+  "reviewUrl": "/cmp/Talan/reviews/entreprise-tr%C3%A8s-respectueuse-du-consultant-et-performante?id=a1a9e035bbc0c7f3",
+  "sharingLink": "https://fr.indeed.com/cmp/Talan/reviews/entreprise-tr%C3%A8s-respectueuse-du-consultant-et-performante?id=a1a9e035bbc0c7f3",
+  "submissionDate": "8 décembre 2020",
+  "text": {
+    "text": "Très bonne entreprise, protectrice envers ses collaborateurs et performante. \n\nBien sûr c'est une ESN dont l'objectif est la réussite économie, mais si vous n'avez pas accepté la logique d'entreprise bien sûr ce n'est pas la peine de postuler :D\n\nCelui/celle qui veut s'éclater y trouvera forcément de quoi progresser à condition de s'investir, les initiatives personnelles sont encouragées et une grande place est faite aux femmes. \n\n"
+  },
+  "title": {
+    "text": "Entreprise très respectueuse du consultant et performante"
+  },
+  "tweetAutoFillText": "Avis pour Talan sur #indeedjobs : \"Entreprise très respectueuse du consultant et performante\"",
+  "type": "LIST",
+  "unhelpful": 2,
+  "workAndLifeBalanceRating": {
+    "rating": 5,
+    "type": "Équilibre vie professionnelle/personnelle"
+  },
+  "reviewStats": {
+    "name": "Talan",
+    "rating": 3.3,
+    "reviewCount": 58,
+    "reviewCountFormatted": "58",
+    "reviewsUrl": "/cmp/Talan/reviews",
+    "lastUpdatedDate": "4 août 2025",
+    "reviewsStats": {
+      "foundReviewCount": 58,
+      "totalReviewCount": 58
+    },
+    "topics": [
+      {
+        "count": 29,
+        "name": "Équilibre vie professionnelle/vie privée",
+        "rating": 2.8,
+        "topicId": "wlbalance",
+        "value": "ftopic=wlbalance"
+      },
+      {
+        "count": 15,
+        "name": "Salaire et avantages",
+        "rating": 2.9,
+        "topicId": "paybenefits",
+        "value": "ftopic=paybenefits"
+      },
+      {
+        "count": 28,
+        "name": "Sécurité de l'emploi et évolution",
+        "rating": 2.7,
+        "topicId": "jobsecadv",
+        "value": "ftopic=jobsecadv"
+      },
+      {
+        "count": 33,
+        "name": "Direction",
+        "rating": 2.4,
+        "topicId": "mgmt",
+        "value": "ftopic=mgmt"
+      },
+      {
+        "count": 41,
+        "name": "Culture d'entreprise",
+        "rating": 2.6,
+        "topicId": "culture",
+        "value": "ftopic=culture"
+      }
+    ]
+  }
+}]
